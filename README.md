@@ -3,8 +3,8 @@
 
 Links dos projetos no wokwi: 
 
-1. **Codigo padrão:**https://wokwi.com/projects/461686660763557889
-2. **Codigo com o teclado matrical:**https://wokwi.com/projects/461693148407401473
+1. **Codigo padrão:** https://wokwi.com/projects/461686660763557889
+2. **Codigo com o teclado matricial:** https://wokwi.com/projects/461693148407401473
 ---
 
 ## AUTOR DO PROJETO 
